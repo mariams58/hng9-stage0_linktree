@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html {
+    font-family: 'Inter';
+}
+body {
+    width: 90%;
+    margin: auto;
+    margin-top: 10%;   
+}
+.links {
+    
+}
+.linkList {
+    width: 100%;
+    margin: 1rem;
+    text-align: center;
+    border: 1px solid #EAECF0;
+    border-radius: 8px;
+    justify-content: center;
+    padding: 24px 24px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+}

@@ -10,9 +10,9 @@ const LinkButton = props => {
     return (
         <div>
             <a href = {link}>
-                <button id = {title}>{name}</button>
+                <button className="linkList" id = {title}>{name}</button>
             </a>
         </div>
-    )
+    );
 }
 export default LinkButton
